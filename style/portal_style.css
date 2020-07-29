@@ -1,0 +1,28 @@
+#startup{
+    width:80%;
+    position:relative;
+    left:10%;
+}
+#startup p{
+    width:20%;
+    position:relative;
+    left:40%;
+    text-align:center;
+    font-size:xx-large;
+}
+#startup a{
+    width:20%;
+    position:relative;
+    left:40%;
+    height:40px;
+    background-color:rgb(39, 179, 39);
+    border-radius:5px;
+    font-size:x-large;
+    color:white;
+    text-align:center;
+    text-decoration:none;
+    display:block;
+}
+#startup a:hover{
+    background-color:rgb(29, 87, 29);
+}

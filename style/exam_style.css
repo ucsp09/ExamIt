@@ -1,0 +1,68 @@
+*{
+    box-sizing:border-box;
+    overflow:hidden;
+}
+#Exam{
+    width:80%;
+    position:relative;
+    left:10%;
+    border:1px solid gray;
+}
+#ExamName{
+    height:50px;
+    text-align:center;
+    font-size:xx-large;
+    background-color:rgb(230, 230, 230);
+}
+#Question{
+    float:left;
+    width:70%;
+    height:400px;
+}
+#QuestionContent{
+    height:30%;
+    background-color:rgb(215, 215, 215);
+    padding-top:10px;
+    padding-left:10px;
+}
+#Option{
+    height:70%;
+    background-color:rgb(200, 200, 200);
+}
+#Option input{
+    width:80%;
+    position:relative;
+    left:10%;
+    top:20%;
+}
+#Navigator{
+    float:left;
+    width:30%;
+    height:400px;
+}
+#Buttons{
+    clear:left;
+    height:50px;
+    background-color:rgb(185, 185, 185);
+}
+#Buttons input{
+    background-color:lightgray;
+    color:gray;
+    position:relative;
+    top:50%;
+    left:20%;
+}
+#Buttons input:hover{
+    background-color:gray;
+    color:lightgray;
+}
+#NavigatorButtons{
+    height:30%;
+    padding:5px;
+    background-color:rgb(160, 160, 160);
+}
+#NavigatorMenu{
+    height:70%;
+    padding:5px;
+    background-color:rgb(145, 145, 145);
+}

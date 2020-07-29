@@ -1,0 +1,45 @@
+body{
+    background-color:rgb(236, 236, 236);
+}
+#body-1{
+    padding-top:50px;
+    padding-bottom:50px;
+}
+#register{
+    padding-top:50px;
+    height:500px;
+    background-color:white;
+    overflow:hidden;
+    width:30%;
+    position:relative;
+    left:35%;
+}
+#register input{
+    width:100%;
+    height:40px;
+}
+.boxes{
+    width:80%;
+    position:relative;
+    left:10%;
+}
+#title{
+    font-size:x-large;
+    text-align:center;
+}
+#submit input{
+    color:white;
+    background-color:slategray;
+    border-radius:5px;
+}
+#submit input:hover{
+    background-color:rgb(140, 158, 177);
+}
+#redirect{
+    text-align:center;
+    color:lightgray;
+}
+#redirect a{
+    text-decoration:none;
+    color:slategray;
+}

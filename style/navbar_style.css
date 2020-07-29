@@ -1,0 +1,39 @@
+*{
+    box-sizing:border-box;
+}
+body{
+    margin:0;
+    }
+#nav{
+    background-color:black;
+    overflow:hidden;
+}
+#nav a{
+    display:block;
+    text-decoration:none;
+    padding:14px 16px;
+    color:lightgray;
+}
+#lef{
+    float:left;
+    position:relative;
+    left:20%;
+}
+#lef a{
+    float:left;
+}
+#rig{
+    float:right;
+    position:relative;
+    right:10%;
+}
+#rig a{
+    float:right;
+}
+#nav a#active{
+    color:white;
+}
+#nav a:hover:not(.active)
+{
+    color:white;
+}

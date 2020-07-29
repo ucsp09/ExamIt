@@ -1,0 +1,43 @@
+.buttons{
+    color:rgb(145, 145, 145);
+    background-color:rgb(230, 230, 230);
+    width:20%;
+}
+.texts{
+    width:79%;
+}
+.buttons:hover{
+    background-color:rgb(145, 145, 145);
+    color:rgb(230, 230, 230);
+}
+#root{
+    width:80%;
+    position:relative;
+    left:10%;
+    padding:10px 11px;
+    border:1px solid lightgray;
+    background-color:rgb(230, 230, 230);
+}
+#row-1{
+    padding:10px 11px;
+    background-color:rgb(215, 215, 215);
+}
+#row-2{
+    padding:10px 11px;
+    background-color:rgb(200, 200, 200);
+}
+.question{
+    width:80%;
+    position:relative;
+    left:10%;
+    padding:10px 11px;
+    background-color:rgb(185, 185, 185);
+}
+.question_content{
+    padding:10px 11px;
+    background-color:rgb(160, 160, 160);
+}
+.option{
+    padding:10px 11px;
+    background-color:rgb(145, 145, 145);
+}

@@ -1,0 +1,21 @@
+#body-1{
+    width:80%;
+    position:relative;
+    left:10%;
+    top:25px;
+}
+#body-2{
+    width:80%;
+    position:relative;
+    left:10%;
+    top:50px;
+}
+#body-2 table{
+    border:1px solid black;
+    width:80%;
+    position:relative;
+    left:10%;
+}
+#body-2 table td{
+    text-align:center;
+}

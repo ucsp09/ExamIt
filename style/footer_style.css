@@ -1,0 +1,31 @@
+#footer{
+    background-color:gray;
+    overflow:hidden;
+}
+#footer a{
+    text-decoration:none;
+    color:lightgray;
+}
+#footer a:hover{
+    color:white;
+}
+#follow{
+    padding-top:20px;
+    padding-bottom:20px;
+    float:left;
+    width:50%;
+}
+#follow a{
+    position:relative;
+    left:20%;
+}
+#support{
+    padding-top:20px;
+    padding-bottom:20px;
+    float:left;
+    width:50%;
+}
+#support a{
+    position:relative;
+    left:20%;
+}

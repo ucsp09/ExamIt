@@ -1,0 +1,103 @@
+#intro{
+    text-align:center;
+    background-color:gray;
+    color:lightgray;
+    font-size:medium;
+    padding:10px 11px;
+}
+#body-1{
+    background-color:black;
+    overflow:hidden;
+    color:white;
+}
+#title{
+    float:left;
+    width:40%;
+}
+.rows{
+    position:relative;
+    left:20%;
+}
+#row-1{
+    padding-top:70px;
+    font-size:xx-large;
+}
+#row-2{
+    font-size:xx-large;
+}
+#row-3{
+    font-size:large;
+    color:gray;
+}
+#pic-1{
+    float:left;
+    width:60%;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+#pic-1 img{
+    width:80%;
+    position:relative;
+    left:10%;
+}
+#body-2{
+    background-color:white;
+    overflow:hidden;
+    height:400px;
+}
+#info{
+    float:left;
+    width:40%;
+    color:gray;
+    text-align:center;
+}
+#header{
+    padding-top:50px;
+    font-size:x-large;
+}
+#description{
+    padding-top:30px;
+    font-size:large;
+}
+#pic-2{
+    padding-top:30px;
+    padding-bottom:30px;
+    float:left;
+    width:60%;
+    height:100%;
+}
+#pic-2 img{
+    width:100%;
+    height:100%;
+}
+#body-3{
+    background-color:lightgray;
+    overflow:hidden;
+    height:300px;
+    text-align:center;
+}
+#stmnt{
+    color:black;
+    padding-top:50px;
+    font-size:x-large;
+}
+#exec{
+    padding-top:40px;
+    width:80%;
+    position:relative;
+    left:10%;
+}
+#exec a{
+    display:block;
+    text-decoration:none;
+    border:1px solid black;
+    width:20%;
+    padding:10px 11px;
+    position:relative;
+    left:40%;
+    color:white;
+    background-color:rgb(7, 85, 201);
+}
+#exec a:hover{
+    background-color:rgb(46, 109, 204);
+}
